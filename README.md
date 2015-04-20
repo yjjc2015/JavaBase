@@ -5,4 +5,4 @@
 [目录](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/socket)
 ##生产者消费者
 ###生产者消费者wait, notifyAll方法实现
-[目录](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/producer_comsumer.easy)
+[目录](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/producer_comsumer/easy)
