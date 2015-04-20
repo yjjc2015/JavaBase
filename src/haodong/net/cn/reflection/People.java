@@ -1,5 +1,9 @@
 package haodong.net.cn.reflection;
-
+/**
+ * 基类,用户测试
+ * @author haodong
+ *
+ */
 public class People {
 	private String name;
 	private String id;
