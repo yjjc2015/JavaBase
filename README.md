@@ -9,3 +9,5 @@
 ##哈希
 ###hashCode, equals和map
 [目录](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/object_hash)
+##几种单例模式实现
+[目录](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/singleton)
