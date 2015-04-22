@@ -16,4 +16,4 @@
 ##序列化和反序列化
 [目录](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/serializable)
 ##实现迭代器，支持foreach语法
-[目录](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/serializable/iterable)
+[目录](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/iterable)
