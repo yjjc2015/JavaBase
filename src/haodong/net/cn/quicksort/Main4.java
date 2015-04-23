@@ -3,7 +3,7 @@ package haodong.net.cn.quicksort;
 import java.util.Random;
 
 /**
- * 严蔚敏教程中的快速排序+三数取中值优化
+ * 严蔚敏教程中的快速排序+三数取中值优化+取不重复的随机数
  * 其他快速排序算法都可以利用三数取中优化快速排序
  * @author haodong
  *
@@ -54,16 +54,34 @@ public class Main4 {
 	 * @return
 	 */
 	public static int convert(int[]a, int left, int right) {
-		Random random = new Random();
-		int len = right-left;
 		int i, j, k;
-		i = left+random.nextInt(len);
-		j = left+random.nextInt(len);
-		k = left+random.nextInt(len);
+		int[] res = getOne(left, right);
+		i = left+res[0];
+		j = left+res[1];
+		k = left+res[2];
 		if (a[i] > a[j]) swap(a, i, j);
 		if (a[j] > a[k]) swap(a, j, k);
 		int tmp = a[i] > a[j]? i: j;
 		return tmp;
+	}
+	/**
+	 * 取不重复的随机数
+	 * @param left
+	 * @param right
+	 * @return
+	 */
+	public static int[] getOne(int left, int right) {
+		int len = right-left+1;
+		Random random = new Random();
+		int remaining = 3;
+		int[] res = new int[3];
+		for (int i = 0, j = 0; i < len; i++) {
+			if (random.nextInt()%(len-i) < remaining) {
+				remaining--;
+				res[j] = i;
+			}
+		}
+		return res;
 	}
 	public static void swap(int[] a, int left, int right) {
 		int tmp = a[left];
