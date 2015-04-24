@@ -27,7 +27,8 @@ public class Main {
 		private final Condition full = lock.newCondition();          //生产者条件
 		private final Condition empty = lock.newCondition();     //消费者条件
 		public void consume() {
-			if (lock.tryLock()) {              //这里使用tryLock，类似自旋锁的方式
+			if (lock.tryLock()) {              //这里使用tryLock()，只有当锁可用的情况下才获得锁，不然代码继续执行
+													   //不同于lock()方法，lock()方法是指：如果遇到锁被其他进程占用，则该线程一直等待下去
 				try {
 					while (list.size() <= 0) {
 						empty.await();
