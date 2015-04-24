@@ -1,4 +1,4 @@
-package haodong.net.cn.producer_consume.condition;
+package haodong.net.cn.producer_consumer.condition;
 
 import java.util.ArrayList;
 import java.util.List;
