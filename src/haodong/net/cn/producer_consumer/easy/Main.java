@@ -1,4 +1,4 @@
-package haodong.net.cn.producer_comsumer.easy;
+package haodong.net.cn.producer_consumer.easy;
 
 import java.util.LinkedList;
 import java.util.List;

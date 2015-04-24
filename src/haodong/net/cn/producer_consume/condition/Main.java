@@ -1,4 +1,4 @@
-package haodong.net.cn.producer_comsume.conditon;
+package haodong.net.cn.producer_consume.condition;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -32,7 +32,7 @@ public class Main {
 				try {
 					while (list.size() <= 0) {
 						empty.await();
-					}
+					}	
 					list.remove(list.size()-1);
 					full.signal();
 					System.out.println("消费了一个产品，还剩： " + list.size() + "个产品！");
