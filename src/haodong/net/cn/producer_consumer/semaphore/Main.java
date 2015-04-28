@@ -20,7 +20,7 @@ public class Main {
 		private final Semaphore semaphore = new Semaphore(1);          //定义存储互斥条件（互斥锁）
 		private final Semaphore empty = new Semaphore(0);                  //定义存储空间为空信号量
 		private final Semaphore full = new Semaphore(10);                    //定义存储空间已满的信号量
-		private List<Product> list = new ArrayList<>();
+		private final List<Product> list = new ArrayList<>();
 		private int count = 0;
 
 		public void consume() {
