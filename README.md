@@ -8,6 +8,8 @@
 [目录](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/producer_consumer/easy)
 ###生产者消费者condition, await, sigal实现
 [目录](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/producer_consumer/condition)
+###生产者消费者semaphore实现
+[目录](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/producer_consumer/semaphore)
 ##哈希
 ###hashCode, equals和map
 [目录](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/object_hash)
