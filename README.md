@@ -37,3 +37,5 @@
 ##java8新特征
 ###Stream流
 [目录](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/java8/stream)
+###Stream流中的其他特性
+[目录](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/java8/streamadvance)
