@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 import java.util.UUID;
+import java.util.stream.Stream;
 /**
  * 1. 对比java8中Stream流的ParallelStream和Stream方法耗时；
  * 2. 对比map类的foreach方法和entrySet方法耗时；
@@ -31,6 +32,7 @@ public class Main {
 	 */
 	public static void testStreamVsParallelStream(List<String> list) {
 		long start = System.nanoTime();
+		Stream<String> stream = list.stream();
 		long count = list.stream().sorted().count();
 		long end = System.nanoTime();
 		System.out.println("普通排序："+(end-start));
