@@ -2,13 +2,13 @@
 ##目录
 ###java初级知识
 * **匿名内部类**       
-[匿名内部类继承接口或者实现类](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/anonymous)
+	- [匿名内部类继承接口或者实现类](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/anonymous)
 
 ###java中级知识
-* **常见反射API**    
-	- [目录](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/reflection)
-* **使用线程池实现**      
-	- [目录](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/socket)
+* **反射**    
+	- [常见反射API](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/reflection)
+* **Socket编程**      
+	- [使用线程池实现Socket编程](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/socket)
 * **哈希**      
 	- [hashCode, equals和map](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/object_hash)
 * **序列化和反序列化**      
