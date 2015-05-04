@@ -26,7 +26,7 @@
 	- [常见Stream类API](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/java8/stream)
 	- [常见Stream类API+](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/java8/streamadvance)
 * **动态语言支持**           
-	- [方法句柄与DynamicInvoke](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/dynamic/methodhandle)
+	- [方法句柄与DynamicInvoke](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/dynamic/methodhandle)        
 ###java程序设计
 * **生产者消费者模式**       
 	- [生产者消费者wait, notifyAll方法实现](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/producer_consumer/easy)
