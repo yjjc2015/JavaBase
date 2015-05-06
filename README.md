@@ -3,6 +3,8 @@
 ###java初级知识
 * **匿名内部类**       
 	- [匿名内部类继承接口或者实现类](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/anonymous)
+* **String类**        
+	- [String.intern()方法](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/string/intern)
 
 ###java中级知识
 * **反射**    
