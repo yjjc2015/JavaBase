@@ -41,6 +41,8 @@
 	- [几种单例模式实现](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/singleton)
 * **迭代器模式**
 	- [实现迭代器，支持foreach语法](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/iterable)
+* **装饰者模式**
+  - [装饰者模式](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/decorator)
 
 ###算法
 * **快速排序算法**
