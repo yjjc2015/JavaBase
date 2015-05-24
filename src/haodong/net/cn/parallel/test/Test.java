@@ -15,27 +15,27 @@ public class Test {
         long start = System.currentTimeMillis();
         int res = getResultByNormal();
         long end = System.currentTimeMillis();
-        System.out.println("运算结果为："+res+" 使用单线程: "+(end-start));
+        System.out.println("运算结果为：" + res + " 使用单线程: " + (end - start));
 
         //使用普通多线程寻找1到N的质数个数
         start = System.currentTimeMillis();
         res = getResultByThread();
         end = System.currentTimeMillis();
-        System.out.println("运算结果为:"+res+" 使用多线程："+(end-start));
+        System.out.println("运算结果为:" + res + " 使用多线程：" + (end - start));
         //使用线程池寻找1到N的质数个数
         start = System.currentTimeMillis();
         res = getResultByExecutor();
         end = System.currentTimeMillis();
-        System.out.println("运算结果为："+res+" 使用线程池："+(end-start));
+        System.out.println("运算结果为：" + res + " 使用线程池：" + (end - start));
         //使用流运算
         start = System.currentTimeMillis();
         res = getResultByStream();
         end = System.currentTimeMillis();
-        System.out.println("运算结果为："+res+" 使用流运算："+(end-start));
+        System.out.println("运算结果为：" + res + " 使用流运算：" + (end - start));
         //使用流运算+forkjoin
         start = System.currentTimeMillis();
         res = getResultByStream();
         end = System.currentTimeMillis();
-        System.out.println("运算结果为："+res+" 使用流运算+forkjoin："+(end-start));
+        System.out.println("运算结果为：" + res + " 使用流运算+forkjoin：" + (end - start));
     }
 }

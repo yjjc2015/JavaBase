@@ -10,7 +10,7 @@ public class NormalTest {
         for (int i = 2; i < Common.N; i++) {
             boolean tag = true;
             for (int j = 2; j <= Math.sqrt(i); j++) {
-                if (i%j == 0) {
+                if (i % j == 0) {
                     tag = false;
                     break;
                 }

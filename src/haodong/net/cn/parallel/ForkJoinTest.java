@@ -26,11 +26,12 @@ public class ForkJoinTest {
         }
         return 0;
     }
+
     private static class PrimesPrint {
         public static boolean isPrime(int number) {
             boolean tag = true;
             for (int i = 2; i <= Math.sqrt(number); i++) {
-                if (number%i == 0) {
+                if (number % i == 0) {
                     tag = false;
                     break;
                 }

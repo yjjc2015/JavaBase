@@ -10,11 +10,12 @@ public class StreamTest {
         int res = (int) range(2, Common.N).parallel().filter(PrimesPrint::isPrime).count();
         return res;
     }
+
     private static class PrimesPrint {
         public static boolean isPrime(int number) {
             boolean tag = true;
             for (int i = 2; i <= Math.sqrt(number); i++) {
-                if (number%i == 0) {
+                if (number % i == 0) {
                     tag = false;
                     break;
                 }

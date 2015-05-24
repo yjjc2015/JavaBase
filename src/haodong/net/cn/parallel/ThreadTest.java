@@ -14,7 +14,7 @@ public class ThreadTest {
         CountDownLatch count = new CountDownLatch(Common.THREAD_NUM);
         for (int i = 0; i < Common.THREAD_NUM; i++) {
             new Thread(() -> {
-                synchronized(interatorNum) {
+                synchronized (interatorNum) {
                     while (interatorNum.get() < Common.N) {
                         interatorNum.incrementAndGet();
 
