@@ -26,6 +26,7 @@
 	- [CyclicBarrier协调子线程](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/concurrent/cyclicbarrier)
 	- [ForkJoin框架](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/concurrent/forkjoin)
 	- [ThreadLocal变量](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/concurrent/threadlocal)
+  - [四种并发编程对比](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/parallel)
 * **Stream流**
 	- [常见Stream类API](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/java8/stream)
 	- [常见Stream类API+](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/java8/streamadvance)
