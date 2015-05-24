@@ -48,6 +48,8 @@
 * **工厂模式**
   - [简单工厂模式](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/factory/simple_factory)
   - [工厂方法模式](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/factory/factory_method)
+* **责任链模式**
+  - [责任链模式](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/chain)
 
 ###算法
 * **快速排序算法**
