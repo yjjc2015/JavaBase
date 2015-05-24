@@ -27,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/src/haodong/net/cn/factory/factory_method/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="45" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="45" />
+              <caret line="0" column="30" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -638,7 +638,7 @@
       <workItem from="1432400833105" duration="11035000" />
       <workItem from="1432438292180" duration="2653000" />
       <workItem from="1432440978115" duration="6367000" />
-      <workItem from="1432451700639" duration="12123000" />
+      <workItem from="1432451700639" duration="12215000" />
     </task>
     <task id="LOCAL-00001" summary="test for intellij">
       <created>1432147892720</created>
@@ -656,7 +656,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40850000" />
+    <option name="totallyTimeSpent" value="40942000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -1036,7 +1036,7 @@
     <entry file="file://$PROJECT_DIR$/src/haodong/net/cn/factory/factory_method/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="45" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="45" />
+          <caret line="0" column="30" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="30" />
           <folding />
         </state>
       </provider>

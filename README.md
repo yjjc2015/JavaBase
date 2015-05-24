@@ -46,8 +46,8 @@
 * **装饰者模式**
   - [装饰者模式](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/decorator)
 * **工厂模式**
-  - [简单工厂模式](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/simple_factory)
-  - [工厂方法模式](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/factory_method)
+  - [简单工厂模式](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/factory/simple_factory)
+  - [工厂方法模式](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/factory/factory_method)
 
 ###算法
 * **快速排序算法**
