@@ -638,7 +638,7 @@
       <workItem from="1432400833105" duration="11035000" />
       <workItem from="1432438292180" duration="2653000" />
       <workItem from="1432440978115" duration="6367000" />
-      <workItem from="1432451700639" duration="12072000" />
+      <workItem from="1432451700639" duration="12123000" />
     </task>
     <task id="LOCAL-00001" summary="test for intellij">
       <created>1432147892720</created>
@@ -656,7 +656,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40799000" />
+    <option name="totallyTimeSpent" value="40850000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
