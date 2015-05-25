@@ -52,6 +52,8 @@
   - [责任链模式](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/chain)
 * **观察者模式**
   - [观察者模式](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/observer)
+* **策略模式**
+  - [策略模式](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/strategy)
 
 ###算法
 * **快速排序算法**
