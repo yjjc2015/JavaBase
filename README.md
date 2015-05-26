@@ -58,6 +58,8 @@
   - [适配器模式](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/class_adapter)
 * **原型模式**
   - [原型模式](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/prototype)
+* **建造者模式**
+  - [建造者模式](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/builder)
 
 ###算法
 * **快速排序算法**
