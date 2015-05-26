@@ -56,6 +56,8 @@
   - [策略模式](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/strategy)
 * **适配器模式**
   - [适配器模式](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/class_adapter)
+* **原型模式**
+  - [原型模式](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/prototype)
 
 ###算法
 * **快速排序算法**
