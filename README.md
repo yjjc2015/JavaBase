@@ -66,3 +66,4 @@
 	- [快速排序算法的四种实现](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/quicksort)
 * **其他排序算法**
 	- [归并，堆，冒泡，插入](https://github.com/tanghaodong25/java-/tree/master/src/haodong/net/cn/otherSort)
+	- 要跑啊，少年，要跑
